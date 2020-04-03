@@ -4,10 +4,10 @@ A simple one-pass assembler in Java that scans the given source program only onc
 
 The program does not support:
 
-    program blocks
-    EQU
-    LITTAB
-    expressions in operands
+    1)program blocks
+    2)EQU
+    3)LITTAB
+    4)expressions in operands
 
 
 The source.DAT file consists of the assembly level language program and the OPTAB.DAT consists of opcodes.
